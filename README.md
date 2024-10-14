@@ -1,4 +1,7 @@
 # REGEX Turtorial - Matching an Email
+
+## Gist URL - https://gist.github.com/Baelak/7ad53f289e4092d1359461e8d3b6e7ff
+
 ## /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
 In this tutorial, we'll explore the regular expression used for matching email addresses. Understanding how regex patterns work is essential for validating user input, particularly in web development. This regex ensures that the email format adheres to common standards, helping to filter out invalid addresses and improve data quality.
@@ -35,3 +38,7 @@ This regex uses greedy matching, which means it will match as many characters as
 ## Author
 
 Hi I am Kaleab. I am a GWU Fullstack Developer Bootcamp student and I created this tutorial as part of an assignement. Feel free to visit my [GitHub profile]([url](https://github.com/Baelak?tab=repositories)) for more projects. 😊
+
+ <div style="display: flex; justify-content: center; border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 20px;">
+  <img src="./Develop/generatedQR.png" alt="Logo" style="max-height: 200px; max-width: 200px;">
+</div>
